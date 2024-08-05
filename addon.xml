@@ -9,7 +9,7 @@
 	<extension point="xbmc.addon.metadata">
 		<language></language>
 		<summary lang="en">Send JSON-RPC commands to Kodi addon</summary>
-		<description lang="en">Change theme setings for Bower9065's mod of Estuary Mod V2 from Home Assistant using Kodi integration.
+		<description lang="en">Change theme settings for Bower9065's mod of Estuary Mod V2 from Home Assistant using Kodi integration.
 Accepted commands: 
   'Valentines Day', 'St Patricks Day', 'Easter', '4th of July',
   'Halloween', 'Thanksgiving', 'Chrtistmas', 'New Years Eve', 
