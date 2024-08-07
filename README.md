@@ -36,6 +36,6 @@ Example call-service:
 		- media_player.kodi_living_room
 	data:
 		method: Addons.ExecuteAddon
-		addonid: script.estuary.mod_v2_theme_selector
+		addonid: script.estuary.modv2_theme_selector
 		params:
 		command: Thanksgiving
