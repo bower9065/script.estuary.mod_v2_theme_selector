@@ -1,7 +1,7 @@
 
-#Estuary MOD V2 Theme Selector
+# Estuary MOD V2 Theme Selector
 
-- Change theme settings for Bower9065's mod of Estuary Mod V2 from Home Assistant using Kodi integration.
+Change theme settings for Bower9065's mod of Estuary Mod V2 from Home Assistant using Kodi integration.
 
 Accepted commands:
 
